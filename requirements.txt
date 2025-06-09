@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy 
+aiosqlite
+python-jose[cryptography]
+passlib
+httpx
+redis
+pydantic-settings
+pytest 
+pytest-asyncio 
+pytest-mock
